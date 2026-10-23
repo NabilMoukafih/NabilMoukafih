@@ -1,16 +1,13 @@
-## Hi there 👋
+### Nabil Moukafih
 
-<!--
-**NabilMoukafih/NabilMoukafih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Researcher at Fujitsu Research (London), working on AI security,
+agentic systems and cyber deception. PhD in Cyber Security and AI.
 
-Here are some ideas to get you started:
+**Selected work**
+- *Adaptive Agentic Honeypots: Decoupling Simulation from Reasoning for Robust Cyber Deception*, IEEE COMPSAC 2026 (first author)
+- *Semi-Automated Threat Vulnerability & Risk Assessment for Medical Devices*, PETRA '24 (first author)
+- *Neural Network-Based Voting System for Intrusion Detection in SIEM/IDS Systems*, 2020 (35 citations; code in this account)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Links:** [Google Scholar](https://scholar.google.com/citations?user=LB_u664AAAAJ) · [LinkedIn](https://www.linkedin.com/in/nabil-moukafih)
+
+Most of my current work is internal to Fujitsu; the repositories here are from my PhD.
